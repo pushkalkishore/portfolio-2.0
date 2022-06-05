@@ -5,6 +5,7 @@ import myphoto from "../images/MyPhoto.png";
 function AboutMe() {
   return (
     <section className="aboutme">
+      
       <div className="a-left">
 
           <div className="bg-image"></div>

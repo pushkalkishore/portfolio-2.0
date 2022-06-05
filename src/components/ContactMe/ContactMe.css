@@ -16,8 +16,6 @@
   padding: 0;
 }
 
-
-
 /* @media only screen and (min-width: 600px) {
     .cta {
         position: relative;
@@ -26,7 +24,7 @@
       }
 } */
 
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 600px) {
   .cta {
     position: relative;
     top: 700px;
@@ -36,9 +34,6 @@
   .cta h3 {
     font-size: 12px;
   }
-  
-
-  
 }
 
 /* @media (max-width: 850px) {
@@ -48,4 +43,4 @@
       margin-bottom: 20px;
       width: 60%;
     }
-  } */ 
+  } */

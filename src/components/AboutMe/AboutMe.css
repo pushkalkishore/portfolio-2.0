@@ -3,7 +3,13 @@
     height: 100vh;
     align-items: center;
     background-color: #fff3f3;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 20px;
 }
+
+
 
 .marvel{
     font-family: 'Cookie', cursive;
@@ -71,11 +77,13 @@
         height: 100vh;
         align-items: center;
         flex-direction: column;
+        margin-left: 40px;
+        margin-right: 40px;
     }
 
     .a-right{
         padding: 10px;
-        font-size: 25px;
+        font-size: 20px;
         text-align: center;
         position: relative;    
         top: -110px;
@@ -85,21 +93,21 @@
         position: relative;
         background-color:#000006;
         height: 380px;
-        width: 500px;
+        width: 470px;
         top: -30px;
-        left: 95px;
+        left: 88px;
         border-radius: 22px;
         
     }
 
     .a-image{
-        width: 155%;
-        height: 60%;
+        width: 135%;
+        height: 50%;
         object-fit: cover;
         border-radius: 22px;
         position: relative;
         top: 120px;
-        left: -185px;
+        left: -177px;
     }
 
     .line-1 {

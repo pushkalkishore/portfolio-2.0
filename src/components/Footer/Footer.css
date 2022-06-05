@@ -1,0 +1,29 @@
+.footer{
+    width: 100%;
+    text-align: center;
+    padding: 30px 0;
+}
+
+.icons {
+    color: #f44336;
+    cursor: pointer;
+}
+
+.fa-icons{
+    margin: 0 13px;
+    padding: 10px 0;
+    font-size: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+    .footer{
+        position: relative;
+        top: 84vh;
+    }
+
+    .f-text{
+        font-size: 15px;
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+}
