@@ -6,6 +6,7 @@
   background-size: cover;
   background-position: center;
   position: relative;
+  
 }
 
 nav {
@@ -26,6 +27,7 @@ nav img {
   text-align: right;
   margin-right: -25px;
   margin-top: -30px;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 .nav-links ul li {
   list-style: none;
@@ -69,17 +71,22 @@ nav img {
   margin-top: 2px;
   font-size: 100px;
   margin-bottom: 0%;
+  font-family: 'Roboto', sans-serif;
+
+  
 }
 
 .introhead2 {
   margin-top: 0%;
   margin-bottom: 0%;
+  font-family: 'Dancing Script', cursive;
 }
 
 .typewriter {
   font-size: 2rem;
   font-weight: 700;
   color: #f44336;
+  font-family: 'Dancing Script', cursive;
 }
 
 .intropage a {
@@ -111,7 +118,7 @@ nav img {
   display: none;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 900px) {
   .introhead1 {
     margin-top: 0%;
     font-size: 3.5rem;
@@ -119,7 +126,7 @@ nav img {
   }
 
   .introhead2 {
-    font-size: 1rem;
+    font-size:1.5rem;
     margin-top: 0%;
     margin-bottom: 0%;
   }
