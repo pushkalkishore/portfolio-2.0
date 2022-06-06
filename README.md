@@ -1,12 +1,16 @@
-<h2 align="center">
-  Portfolio Website - 2.0<br/>
-  <a href="https://kishorepushkal.netlify.app/" target="_blank" style="font-size:15px">Live link</a>
-  <p style="font-size:15px">A personal portfolio website to showcase my journey and expericences.
+<div align="center">
+
+<h2>
+  Portfolio Website - 2.0
 </h2>
+
+<a href="https://kishorepushkal.netlify.app/" target="_blank" style="font-size:15px">Live link</a>
+
+</div>
+
 <div align="center">
 
   <h5>Website Preview</h5>
-  <img alt="Demo" src="./Images/readme-img1.png" />
 </div>
 
 <br/>
@@ -36,7 +40,7 @@
 
 ## Built With
 
-My personal portfolio <a href="http://soumya-jit.tech/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio
 
 This project was built using these technologies.
 
