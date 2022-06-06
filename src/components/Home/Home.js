@@ -16,23 +16,23 @@ function Home(props) {
           <FaWindowClose className="closeicon" onClick={hidemenu} />
           <ul>
             <li>
-              <a href="#">Home</a>
+              <a href="#home">Home</a>
             </li>
             <li>
-              <a href="#">About Me</a>
+              <a href="#aboutme">About Me</a>
             </li>
             <li>
-              <a href="#">Projects</a>
+              <a href="#projects">Projects</a>
             </li>
             <li>
-              <a href="#">Contact Me</a>
+              <a href="#contactme">Contact Me</a>
             </li>
           </ul>
         </div>
         <HiMenuAlt3 className="menuicon" onClick={showmenu}/>
       </nav>
 
-      <div className="intropage">
+      <div className="intropage" id="home">
         <h2 className="introhead2">Hey, I'm</h2>
         <h1 className="introhead1">Pushkal Kishore</h1>
         <div className="typewriter">
@@ -46,7 +46,7 @@ function Home(props) {
             }}
           />
         </div>
-        <a href="#" className="hero-btn">
+        <a href="#contactme" className="hero-btn">
           Hire Me
         </a>
       </div>
