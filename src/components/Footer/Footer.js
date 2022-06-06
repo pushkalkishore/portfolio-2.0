@@ -8,9 +8,9 @@ function Footer(props) {
         <div className='footer'>
            <p className='f-text'>This is a website built during Lead 2.0 at BIT Mesra while i am still learning a lot of things.</p>
            <div className='icons'>
-           <FaLinkedin className='fa-icons' />
-           <FaGithub className='fa-icons'/>
-           <MdMail className='fa-icons'/>
+           <a href='https://www.linkedin.com/in/kishorepushkal' target="_blank" className='links'><FaLinkedin className='fa-icons'/></a>
+           <a href='https://github.com/pushkalkishore' target="_blank" className='links'><FaGithub className='fa-icons'/></a>
+           <a href='mailto:kpushkal122@gmail.com' className='links'><MdMail className='fa-icons'/></a>
            </div>
            <p>© 2022 Pushkal Kishore</p>
         </div>

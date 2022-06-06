@@ -60,6 +60,8 @@ function showmenu(){
   navLinks.style.right="0";
 }
 
+
+
 function hidemenu(){
   var navLinks=document.getElementById("navlinks")
   navLinks.style.right="-200px"
