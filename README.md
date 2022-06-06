@@ -10,7 +10,7 @@
 
 <div align="center">
   <h5>Website Preview</h5>
-  <img alt="Demo" src="./src/components/images/macpro.png" />
+  <img alt="Demo" src="./src/components/images/macpro 2.png" />
 </div>
 
 <br/>
