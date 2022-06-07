@@ -12,7 +12,7 @@ function AboutMe() {
 
 
           <div className="a-card">
-            <img src={myphoto} alt="photo" className="a-image" />
+            <img src="https://user-images.githubusercontent.com/86289322/172388732-99a001f9-f98b-4c58-b5ae-978ac11f1ac4.png" alt="photo" className="a-image" />
           </div>
       </div>
 

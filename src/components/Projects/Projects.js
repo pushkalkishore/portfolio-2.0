@@ -18,7 +18,7 @@ function Projects(props) {
            <div className='row'>
 
                <div className='project-col'>
-                   <img src={p1} />
+                   <img src="https://user-images.githubusercontent.com/86289322/172388018-d1755e0a-b3bd-40f1-8c52-0166207b4f6f.png" />
                    <div className='layer'>
                        <a href='https://github.com/pushkalkishore/Attendance-System' target="_blank" >
                         <h3>Upastithi</h3>
@@ -27,7 +27,7 @@ function Projects(props) {
                </div>
 
                <div className='project-col'>
-                   <img src={p2} />
+                   <img src="https://user-images.githubusercontent.com/86289322/172388372-c425ef68-27d1-48f8-b999-743244fd4891.png" />
                    <div className='layer'>
                    <a href='https://github.com/pushkalkishore/portfolio-2.0' target="_blank" >
                         <h3>This Portfolio website</h3>
@@ -38,7 +38,7 @@ function Projects(props) {
 
            <div className='row'>
            <div className='project-col'>
-                   <img src={p3} />
+                   <img src="https://user-images.githubusercontent.com/86289322/172388604-cb363b0d-f231-47e8-acdf-3508a9d31869.jpg" />
                    <div className='layer'>
                    <a href='https://github.com/pushkalkishore/Classic-Weather-App' target="_blank" >
                         <h3>Classic Weather App</h3>
@@ -47,7 +47,7 @@ function Projects(props) {
                </div>
 
                <div className='project-col'>
-                   <img src={p4} />
+                   <img src="https://user-images.githubusercontent.com/86289322/172388407-47380aba-4941-4659-9b7d-b669cf3c9bd4.png" />
                    <div className='layer'>
                    <a href='https://github.com/pushkalkishore/personal-portfolio-website-2022' target="_blank" >
                         <h3>Previous Portfolio website</h3>
